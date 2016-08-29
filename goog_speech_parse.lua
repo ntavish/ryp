@@ -3,6 +3,7 @@
 local P={}
 goog_speech_parse=P
 
+-- do not judge
 function goog_speech_parse.parse(response)
 	-- sample result
 	-- {"status":0,"id":"","hypotheses":[{"utterance":"youtube","confidence":0.52547479}]}
