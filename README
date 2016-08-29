@@ -1,0 +1,6 @@
+Router youtube player
+=====================
+
+Uses unofficial google speech recognition API for playing youtube songs/whatever using just voice. It is written for an embedded device running OpenWrt, should work at other places also.
+
+Seeedstudio's respeaker, which uses Bing's (official) speech recognition API reminded me that I had written this a long time ago.
